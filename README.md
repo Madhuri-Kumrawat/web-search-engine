@@ -19,8 +19,8 @@ The project is structured in three modules:
 
 **Working Flow:**
 
-![Working flow diagram](https://github.com/Madhuri-Kumrawat/web-search-engine/Work-flow.png)
+![Working flow diagram](https://github.com/Madhuri-Kumrawat/web-search-engine/blob/master/Work-flow.png)
 
 > Resulting HashMap Structure - Example (Search Keyword=Real Estate)
 
-![example](https://github.com/Madhuri-Kumrawat/web-search-engine/hashmap.png)
+![example](https://github.com/Madhuri-Kumrawat/web-search-engine/blob/master/hashmap.png)
